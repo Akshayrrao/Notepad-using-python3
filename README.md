@@ -12,9 +12,10 @@
  
  ![Main Layout](img/main.png)
  
- - Help
+  ****
+ - About
  
- ![Help](img/help.png)
+ ![Help](img/about.png)
  
  ### Running the appliacation
  ****
